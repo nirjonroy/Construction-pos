@@ -114,6 +114,7 @@
     box-shadow: 2px 0 32px rgba(0, 0, 0, 0.05);
     -webkit-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
+    width: 18%;
 }
 
 .sbar_collapsed .sidebar-menu {

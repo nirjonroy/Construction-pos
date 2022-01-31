@@ -7,6 +7,10 @@
     <title>@yield('title', 'Laravel Role Admin')</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     @include('backend.layouts.partials.styles')
+<style type="text/css">
+    .slidebar-menu{ width:18%; }
+</style>
+
 </head>
 
 <body>
